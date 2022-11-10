@@ -1,10 +1,16 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# MySQL One For All
+###### by _[Paulo Medeiros](https://www.linkedin.com/in/paulo-medeiros-dev1879/)_
+
+## :page_with_curl: Sobre
+Neste projeto foi exigido nosso conhecimento adquirido no bloco sobre Funções do SQL, JOINs e Normalização.
+
+## :man_technologist: Habilidades desenvolvidas
+
+Tive que modelar e normalizar uma tabela na terceira forma normal e acessa-lá através das queries utilizando SQL, e criar um banco de dados SpotifyClone e popula-lo com os dados da tabela normalizada.
+
+## ⚙️ Como Executar
+Clone o repositório em uma pasta de preferência
+
+```
+git@github.com:PauloMedeiros1879/Project-MySQL-One-For-All.git
+```
